@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Naomi Ibbotson she/her
 
-I'm just starting out programming late in life and am currently enrolled on an intesive software engineering bootcamp with Hyperion Dev.
+I have come to programming late in life and am currently enrolled on an intesive software engineering bootcamp with Hyperion Dev.
 I am learning Python, HTML, CSS, DJango, SQL, and starting to develop projects where I can deepen and build upon these skills.
 
 Reach me at naomi.ibbotson@gmail.com
